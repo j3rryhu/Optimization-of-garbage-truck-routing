@@ -32,14 +32,17 @@
    12. Huamei community garbage transfer station
 
    13. Xinshan shenghuo garbage transfer station
-
-       ![Garbage station sites](C:\Users\hcj's computer\Desktop\Garbage station sites.PNG)
+   <p align="center">
+   <img src="Garbage station sites.jpg" />
+   </p>
+       
 
 3. Results:
 
    The final route given by the program is 0->8->6->4->3->12->2->13->1->11->7->5->9->10->0. The total distance is approximately 110 kilometers.
-
-   ![Transportation Route](C:\Users\hcj's computer\Desktop\Transportation Route.jpg)
+   <p align="center">
+   <img src="Transportation Route.jpg" />
+   </p>
 
 4. Acknowledgement
 
